@@ -317,7 +317,7 @@ Markdown使用电子邮件风格的`>`符来创建块引用。（>与引用内�
 
 #### 3、图片缩放
 
-Markdown 目前是使用原始的 <img> 标签来实现图片的缩放功能。
+Markdown 目前是使用原始的 `<img> `标签来实现图片的缩放功能。
 
 ```
 <img src="assets/favicon-32-32-a.png" alt="blog-favicon" title="favicon" style="width: 20%;" />
